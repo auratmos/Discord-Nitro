@@ -24,4 +24,4 @@ Since Nitro Classic is no longer purchasable (by normal means[^1]), here's a com
 | 3 Nitro Friend Passes | ❌ | ✔️ | ❌ |
 | Purchasable | ✔️ | ✔️ | ❔ ([Purchase Nitro Classic](https://discord.com/billing/premium/subscribe?plan_id=511651871736201216))[^1]
 
-[^1]: Discord Nitro Classic can not be purchased from the official client. However, it can still be purchased via links ([like this one](https://discord.com/billing/premium/subscribe?plan_id=511651871736201216)) or by modifying the Discord client.
+[^1]: Discord Nitro Classic cannot be purchased through the official Discord client. However, it can still be purchased through purchase links ([like this one](https://discord.com/billing/premium/subscribe?plan_id=511651871736201216)) or by modifying the Discord client.
