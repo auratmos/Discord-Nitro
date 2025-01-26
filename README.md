@@ -1,6 +1,6 @@
 # Discord Nitro - Plan Differences
 
-Since Nitro Classic is no longer purchasable (by normal means), here's a comprehensive and definitive table of all of the features that all three Discord Nitro plans offer.
+Since Nitro Classic is no longer purchasable (by normal means[^1]), here's a comprehensive and definitive table of all of the features that all three Discord Nitro plans offer.
 
 | *Features* | Nitro Basic | Nitro | Nitro Classic |
 | - | - | - | - |
@@ -22,3 +22,6 @@ Since Nitro Classic is no longer purchasable (by normal means), here's a compreh
 | 200 Server Join Limit | ❌ | ✔️ | ❌ |
 | 4000 Character Message Limit | ❌ | ✔️ | ❌ |
 | 3 Nitro Friend Passes | ❌ | ✔️ | ❌ |
+| Purchasable | ✔️ | ✔️ | ❔ ([Purchase Nitro Classic](https://discord.com/billing/premium/subscribe?plan_id=511651871736201216))[^1]
+
+[^1]: Discord Nitro Classic can not be purchased from the official client. However, it can still be purchased via links ([like this one](https://discord.com/billing/premium/subscribe?plan_id=511651871736201216)) or by modifying the Discord client.
